@@ -1,0 +1,1285 @@
+/*page entiere*/
+body{
+	background-image: url("http://tyrolium.fr/Contenu/Image/Background6.png");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	background-color: black;
+
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+
+
+	font-variant: small-caps;
+	font-family: Trebuchet MS, sans-serif;
+
+}
+/*Haut de pase*/
+header div.head{
+	background-color: black;
+	color: black;
+}
+
+header nav.menu-nav{
+	display: inline-block;
+	margin-left: 5%;
+	font-variant: small-caps;
+	font-family: Trebuchet MS, sans-serif;
+}
+header nav.menu-nav2{
+	float: right;
+	display: inline-block;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-variant: small-caps;
+	font-family: Trebuchet MS, sans-serif;
+}
+header nav.menu-nav2 div{
+	background-color: black;
+	padding: 8px;
+	padding-bottom: 0px;
+
+	display: inline-block;
+}
+header nav.menu-nav div{
+	background-color: black;
+	padding: 8px;
+	padding-bottom: 0px;
+
+	display: inline-block;
+}
+
+header nav.menu-nav div li.img{
+	display: inline-block;
+	list-style-type: none;
+
+	padding: 0px
+	margin: 0px;
+	margin-right: 25px;
+}
+
+header nav.menu-nav div li.img img{
+	width: 45px;
+}
+
+header nav.menu-nav div li.btn{
+	display: inline-block;
+	list-style-type: none;
+
+	font-size: 25px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+header nav.menu-nav div li.btn a{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 9px;
+}
+
+header nav.menu-nav div li.btn:hover a{
+	color: blue;
+	transition: 0.5s all;
+	background-color: #292929;
+	border-radius: 20px;
+}
+
+header nav.menu-nav div li.bou{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+
+	font-size: 25px;
+	margin-bottom: 5px;
+	
+}
+
+header nav.menu-nav div li.bou a{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 9px;
+}
+
+header nav.menu-nav div li.bou:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+header nav.menu-nav div li.bou:hover a{
+	color: blue;
+	transition: 0.5s all;
+}
+header nav.menu-nav2 div li.pro{
+	background-color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+
+	font-size: 25px;
+	margin-bottom: 5px;
+	
+}
+
+header nav.menu-nav2 div li.pro a{
+	text-decoration: none;
+	color: red;
+	background-color: black;
+	padding: 9px;
+}
+
+header nav.menu-nav2 div li.pro:hover{
+	background-color: #A90000;
+	transition: 0.5s all;
+}
+header nav.menu-nav2 div li.pro:hover a{
+	color: #A90000;
+	transition: 0.5s all;
+}
+
+header nav.menu-nav2 div li.tyro{
+
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+
+header nav.menu-nav2 div li.tyro a.tyro{	
+
+	text-decoration: none;
+	color: blue;
+	background-color: black;
+	padding: 9px;
+}
+
+header nav.menu-nav2 div li.tyro:hover{
+	background-color: #0000A2;
+	transition: 0.5s all;
+}
+header nav.menu-nav2 div li.tyro:hover a{
+	color: #0000A2;
+	transition: 0.5s all;
+}
+
+header div.color{
+    background-color: blue;
+    padding-bottom: 10px;
+}
+
+/*Debut*/
+div.d1{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+div.d1 div.all{
+	text-align : center;
+	background-color: #212121;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-right: 57.5px;
+	padding-left: 57.5px;
+	color: white;
+	border-radius: 60px;
+}
+div.d1 div.all p.j{
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+	font-family: Luminari, fantasy;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+div.d1 div.all p.j a.j{
+	text-decoration: none;
+	color: blue;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d1 div.all p.j:hover{
+	background-color: #0000A2;	
+	transition: 0.5s all;
+}
+div.d1 div.all p.j:hover a.j{
+	color: #0000A2;
+	transition: 0.5s all;
+}
+div.d1 div.all p.t{
+font-size: 20px;
+}
+
+/*Contenu*/
+div.d2{
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 1600px;
+	padding-right: 135px;
+	padding-left: 150px;
+	color: white;
+}
+
+
+/*Gauche*/
+div.d2 div.a{
+	float: left;
+	display: inline-block;
+	width: 60%;
+}
+div.d2 div.a div.a1{
+
+	padding: 20px;
+	background-color: #212121;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+div.d2 div.a div.a1 div.titre{
+
+	border-radius: 20px;
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d2 div.a div.a1 div.titre p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d2 div.a div.a1 div.titre p.pseudo{
+	line-height: 1em;
+}
+div.d2 div.a div.a1 div.contenu{
+
+	border-radius: 20px;
+	background-color: #3C3C3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+/*Droit*/
+div.d2 div.b{
+	float: right;
+	display: inline-block;
+	width: 35%;
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d2 div.b div.b1{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+div.d2 div.b div.b1 div.titre{
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+div.d2 div.b div.b1 div.contenu{
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d2 div.b div.b1 div.contenu div.img{
+	display: inline-block;
+	float: left;
+}
+div.d2 div.b div.b1 div.contenu div.text{
+	display: inline-block;
+	float: left;
+}
+div.d2 div.b div.b1 div.contenu div.text div.title{
+	margin: 10px;
+	float: left;
+}
+div.d2 div.b div.b1 div.contenu div.text div.contenux{	
+	margin: 10px;
+	float: right;
+}
+div.d2 div.b div.b1 div.contenu div.text div.contenux p.btn{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+}
+
+div.d2 div.b div.b1 div.contenu div.text div.contenux p.btn a.sa{
+	text-decoration: none;
+	color: white;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d2 div.b div.b1 div.contenu div.text div.contenux p.btn:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+div.d2 div.b div.b1 div.contenu div.text div.contenux p.btn:hover a.sa{
+	color: blue;
+	transition: 0.5s all;
+}
+/*Bas De Page*/
+footer{
+	background-color: #212121;
+	color: white;
+
+	font-variant: small-caps;
+	font-family: Gill Sans, sans-serif;
+	font-size: 15px;
+
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 35px;
+}
+
+/*Page Credit*/
+div.d21 div.a div.a1 div.titref{
+
+	border-radius: 20px;
+	background-color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d21 div.a div.a1 div.titref p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titref p.pseudo{
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titrer{
+
+	border-radius: 20px;
+	background-color: #FF6E00;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d21 div.a div.a1 div.titrer p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titrer p.pseudo{
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titres{
+
+	border-radius: 20px;
+	background-color: #5B00FF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d21 div.a div.a1 div.titres p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titres p.pseudo{
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titrem{
+
+	border-radius: 20px;
+	background-color: #FFD900;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: black;
+}
+div.d21 div.a div.a1 div.titrem p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titrem p.pseudo{
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titremd{
+
+	border-radius: 20px;
+	background-color: yellow;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: black;
+}
+div.d21 div.a div.a1 div.titremd p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titremd p.pseudo{
+	line-height: 1em;
+}
+
+/*Contenu*/
+div.d21{
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 700px;
+	padding-right: 135px;
+	padding-left: 150px;
+	color: white;
+}
+
+
+/*Gauche*/
+div.d21 div.a{
+	float: left;
+	display: inline-block;
+	width: 60%;
+}
+div.d21 div.a div.a1{
+
+	padding: 20px;
+	background-color: #212121;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+div.d21 div.a div.a1 div.titre{
+
+	border-radius: 20px;
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d21 div.a div.a1 div.titre p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.titre p.pseudo{
+	line-height: 1em;
+}
+div.d21 div.a div.a1 div.contenu{
+
+	border-radius: 20px;
+	background-color: #3C3C3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+/*Droit*/
+div.d21 div.b{
+	float: right;
+	display: inline-block;
+	width: 35%;
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d21 div.b div.b1{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+div.d21 div.b div.b1 div.titre{
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+div.d21 div.b div.b1 div.contenu{
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d21 div.b div.b1 div.contenu div.img{
+	display: inline-block;
+	float: left;
+}
+div.d21 div.b div.b1 div.contenu div.text{
+	display: inline-block;
+	float: left;
+}
+div.d21 div.b div.b1 div.contenu div.text div.title{
+	margin: 10px;
+	float: left;
+}
+div.d21 div.b div.b1 div.contenu div.text div.contenux{	
+	margin: 10px;
+	float: right;
+}
+div.d21 div.b div.b1 div.contenu div.text div.contenux p.btn{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+}
+
+div.d21 div.b div.b1 div.contenu div.text div.contenux p.btn a.sa{
+	text-decoration: none;
+	color: white;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d21 div.b div.b1 div.contenu div.text div.contenux p.btn:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+div.d21 div.b div.b1 div.contenu div.text div.contenux p.btn:hover a.sa{
+	color: blue;
+	transition: 0.5s all;
+}
+div.d21 div.a div.a1 div.contenu p.Contenu a.pers{
+	text-decoration: none;
+	color: white;
+}
+
+/*Page Play*/
+div.d22 div.a div.a1 div.titref{
+
+	border-radius: 20px;
+	background-color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.titref p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titref p.pseudo{
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titrer{
+
+	border-radius: 20px;
+	background-color: purple;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.titrer p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titrer p.pseudo{
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titres{
+
+	border-radius: 20px;
+	background-color: orange;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.titres p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titres p.pseudo{
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titrem{
+
+	border-radius: 20px;
+	background-color: green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.titrem p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titrem p.pseudo{
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titremd{
+
+	border-radius: 20px;
+	background-color: yellow;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: black;
+}
+div.d22 div.a div.a1 div.titremd p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titremd p.pseudo{
+	line-height: 1em;
+}
+
+/*Contenu*/
+div.d22{
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 1200px;
+	padding-right: 135px;
+	padding-left: 150px;
+	color: white;
+}
+
+
+/*Gauche*/
+div.d22 div.a{
+	float: left;
+	display: inline-block;
+	width: 60%;
+}
+div.d22 div.a div.a1{
+
+	padding: 20px;
+	background-color: #212121;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+div.d22 div.a div.a1 div.titre{
+
+	border-radius: 20px;
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.titre p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.titre p.pseudo{
+	line-height: 1em;
+}
+div.d22 div.a div.a1 div.contenu{
+
+	border-radius: 20px;
+	background-color: #3C3C3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d22 div.a div.a1 div.contenu div.btn{
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+div.d22 div.a div.a1 div.contenu div.btn a.btn{
+	text-decoration: none;
+	color: blue;
+	background-color: #3C3C3C;
+	padding: 9px;
+}
+div.d22 div.a div.a1 div.contenu div.btn:hover{
+	background-color: #0000A2;
+	transition: 0.5s all;
+}
+div.d22 div.a div.a1 div.contenu div.btn:hover a.btn{
+	color: #0000A2;
+	transition: 0.5s all;
+}
+
+/*Droit*/
+div.d22 div.b{
+	float: right;
+	display: inline-block;
+	width: 35%;
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d22 div.b div.b1{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+div.d22 div.b div.b1 div.titre{
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+div.d22 div.b div.b1 div.contenu{
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d22 div.b div.b1 div.contenu div.img{
+	display: inline-block;
+	float: left;
+}
+div.d22 div.b div.b1 div.contenu div.text{
+	display: inline-block;
+	float: left;
+}
+div.d22 div.b div.b1 div.contenu div.text div.title{
+	margin: 10px;
+	float: left;
+}
+div.d22 div.b div.b1 div.contenu div.text div.contenux{	
+	margin: 10px;
+	float: right;
+}
+div.d22 div.b div.b1 div.contenu div.text div.contenux p.btn{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+}
+
+div.d22 div.b div.b1 div.contenu div.text div.contenux p.btn a.sa{
+	text-decoration: none;
+	color: white;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d22 div.b div.b1 div.contenu div.text div.contenux p.btn:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+div.d22 div.b div.b1 div.contenu div.text div.contenux p.btn:hover a.sa{
+	color: blue;
+	transition: 0.5s all;
+}
+div.d22 div.a div.a1 div.contenu p.Contenu a.pers{
+	text-decoration: none;
+	color: white;
+}
+/*Page Profil*/
+div.d23 div.a div.a1 div.titref{
+
+	border-radius: 20px;
+	background-color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d23 div.a div.a1 div.titref p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titref p.pseudo{
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titrer{
+
+	border-radius: 20px;
+	background-color: purple;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d23 div.a div.a1 div.titrer p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titrer p.pseudo{
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titres{
+
+	border-radius: 20px;
+	background-color: orange;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d23 div.a div.a1 div.titres p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titres p.pseudo{
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titrem{
+
+	border-radius: 20px;
+	background-color: green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d23 div.a div.a1 div.titrem p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titrem p.pseudo{
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titremd{
+
+	border-radius: 20px;
+	background-color: yellow;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: black;
+}
+div.d23 div.a div.a1 div.titremd p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titremd p.pseudo{
+	line-height: 1em;
+}
+
+/*Contenu*/
+div.d23{
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 800px;
+	padding-right: 135px;
+	padding-left: 150px;
+	color: white;
+}
+
+
+/*Gauche*/
+div.d23 div.a{
+	float: left;
+	display: inline-block;
+	width: 60%;
+}
+div.d23 div.a div.a1{
+
+	padding: 20px;
+	background-color: #212121;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+div.d23 div.a div.a1 div.titre{
+
+	border-radius: 20px;
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d23 div.a div.a1 div.titre p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.titre p.pseudo{
+	line-height: 1em;
+}
+div.d23 div.a div.a1 div.contenu{
+
+	border-radius: 20px;
+	background-color: #3C3C3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+/*Droit*/
+div.d23 div.b{
+	float: right;
+	display: inline-block;
+	width: 35%;
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d23 div.b div.b1{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+div.d23 div.b div.b1 div.titre{
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+div.d23 div.b div.b1 div.contenu{
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d23 div.b div.b1 div.contenu div.img{
+	display: inline-block;
+	float: left;
+}
+div.d23 div.b div.b1 div.contenu div.text{
+	display: inline-block;
+	float: left;
+}
+div.d23 div.b div.b1 div.contenu div.text div.title{
+	margin: 10px;
+	float: left;
+}
+div.d23 div.b div.b1 div.contenu div.text div.contenux{	
+	margin: 10px;
+	float: right;
+}
+div.d23 div.b div.b1 div.contenu div.text div.contenux p.btn{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+}
+
+div.d23 div.b div.b1 div.contenu div.text div.contenux p.btn a.sa{
+	text-decoration: none;
+	color: white;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d23 div.b div.b1 div.contenu div.text div.contenux p.btn:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+div.d23 div.b div.b1 div.contenu div.text div.contenux p.btn:hover a.sa{
+	color: blue;
+	transition: 0.5s all;
+}
+div.d23 div.a div.a1 div.contenu p.Contenu a.pers{
+	text-decoration: none;
+	color: white;
+}
+div.d23 div.a div.a1 div.contenu p.Contenuj{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+input::placeholder{ 
+	color: #C7C7C7; 
+}
+input {	
+    border : none;
+  	border-bottom  : 2px solid blue;
+  	background-color: #3C3C3C;
+  	-webkit-appearance: none;
+}
+input[type=pseudo] {
+	width: 350px;
+}
+input[type=email] {
+	width: 350px;
+}
+input[type=password] {
+	width: 350px;
+}
+input[type=submit] {
+	color: white;
+  	border: none;
+  	border-radius: 30px;
+  	background-color: blue;
+  	-webkit-appearance: none;
+}
+/*Page Launcher*/
+div.d24 div.a div.a1 div.titref{
+
+	border-radius: 20px;
+	background-color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.titref p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titref p.pseudo{
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titrer{
+
+	border-radius: 20px;
+	background-color: purple;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.titrer p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titrer p.pseudo{
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titres{
+
+	border-radius: 20px;
+	background-color: orange;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.titres p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titres p.pseudo{
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titrem{
+
+	border-radius: 20px;
+	background-color: green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.titrem p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titrem p.pseudo{
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titremd{
+
+	border-radius: 20px;
+	background-color: yellow;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: black;
+}
+div.d24 div.a div.a1 div.titremd p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titremd p.pseudo{
+	line-height: 1em;
+}
+
+/*Contenu*/
+div.d24{
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 800px;
+	padding-right: 135px;
+	padding-left: 150px;
+	color: white;
+}
+
+
+/*Gauche*/
+div.d24 div.a{
+	float: left;
+	display: inline-block;
+	width: 60%;
+}
+div.d24 div.a div.a1{
+
+	padding: 20px;
+	background-color: #212121;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+div.d24 div.a div.a1 div.titre{
+
+	border-radius: 20px;
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.titre p.date{
+	float: right;
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.titre p.pseudo{
+	line-height: 1em;
+}
+div.d24 div.a div.a1 div.contenu{
+
+	border-radius: 20px;
+	background-color: #3C3C3C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+div.d24 div.a div.a1 div.contenu div.btn{
+	background-color: blue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px; 
+	display: inline-block;
+	list-style-type: none;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+div.d24 div.a div.a1 div.contenu div.btn a.btn{
+	text-decoration: none;
+	color: blue;
+	background-color: #3C3C3C;
+	padding: 9px;
+}
+div.d24 div.a div.a1 div.contenu div.btn:hover{
+	background-color: #0000A2;
+	transition: 0.5s all;
+}
+div.d24 div.a div.a1 div.contenu div.btn:hover a.btn{
+	color: #0000A2;
+	transition: 0.5s all;
+}
+
+/*Droit*/
+div.d24 div.b{
+	float: right;
+	display: inline-block;
+	width: 35%;
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d24 div.b div.b1{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+div.d24 div.b div.b1 div.titre{
+	color: black;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+div.d24 div.b div.b1 div.contenu{
+	background-color: #212121;
+	border-radius: 20px;
+}
+div.d24 div.b div.b1 div.contenu div.img{
+	display: inline-block;
+	float: left;
+}
+div.d24 div.b div.b1 div.contenu div.text{
+	display: inline-block;
+	float: left;
+}
+div.d24 div.b div.b1 div.contenu div.text div.title{
+	margin: 10px;
+	float: left;
+}
+div.d24 div.b div.b1 div.contenu div.text div.contenux{	
+	margin: 10px;
+	float: right;
+}
+div.d24 div.b div.b1 div.contenu div.text div.contenux p.btn{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+
+	font-size: 15px;
+	margin-bottom: 5px;
+	
+}
+
+div.d24 div.b div.b1 div.contenu div.text div.contenux p.btn a.sa{
+	text-decoration: none;
+	color: white;
+	background-color: #212121;
+	padding: 9px;
+}
+div.d24 div.b div.b1 div.contenu div.text div.contenux p.btn:hover{
+	color: blue;
+	background-color: blue;
+	transition: 0.5s all;
+}
+div.d24 div.b div.b1 div.contenu div.text div.contenux p.btn:hover a.sa{
+	color: blue;
+	transition: 0.5s all;
+}
+div.d24 div.a div.a1 div.contenu p.Contenu a.pers{
+	text-decoration: none;
+	color: white;
+}
